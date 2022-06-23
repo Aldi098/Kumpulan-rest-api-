@@ -2,7 +2,12 @@
 
 • Fitu Rest api By Xenzi Ganz
 ```
-• Random
+- Menu Ke 1 -
+• Random Proxy
+• Random User-Agent
+• Random Quotes
+• Random Email
+• Random Password
 ```
 
-https://semawur.com/NfsmlQbUIUi
+• Link : https://semawur.com/NfsmlQbUIUi
