@@ -39,4 +39,5 @@
     • Bot Nulis ( Apikey )
 ```
 • Apikey bisa cek di bawah sini 
+
 • Link Website : https://semawur.com/NfsmlQbUIUi
